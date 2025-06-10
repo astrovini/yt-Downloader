@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run YouTube Playlist Downloader",
+            "type": "shell",
+            "command": "python3",
+            "args": [
+                "playlist_downloader.py",
+                "<playlist_url>",
+                "<output_folder>"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
