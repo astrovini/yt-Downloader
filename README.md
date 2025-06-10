@@ -55,4 +55,7 @@ Downloading to: /home/youruser/Downloads/MyMusicFolder
 
 ---
 
-This project is set up for use in Visual Studio Code.
+## Coming soon
+- **Graphical User Interface (GUI):** A user-friendly desktop app for easier playlist and song downloads.
+- **Single Video/Song Download:** Download individual YouTube videos or songs as MP3s.
+- **Spotify Integration:** Download and convert Spotify playlists and tracks (requires user-provided Spotify credentials).
