@@ -39,7 +39,7 @@ Downloading to: /home/youruser/Downloads/MyMusicFolder
 ## Setup
 1. Install dependencies:
    ```
-   pip install yt-dlp
+   pip install -r requirements.txt
    ```
 2. Ensure ffmpeg is installed on your system:
    - **Linux:**
